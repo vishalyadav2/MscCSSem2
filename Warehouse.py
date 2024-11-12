@@ -1,5 +1,7 @@
 #pip install sqlalchemy
 #pip install pandas
+USE demo_db;
+SELECT * FROM warehouse_table LIMIT 10;
 
 
 import pandas as pd

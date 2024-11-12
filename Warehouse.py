@@ -1,7 +1,12 @@
 #pip install sqlalchemy
 #pip install pandas
-USE demo_db;
-SELECT * FROM warehouse_table LIMIT 10;
+#pip install openpyxl
+#pip install pymysql
+#pip install cryptography
+#CREATE DATABASE demo_db;
+
+#USE demo_db;
+#SELECT * FROM warehouse_table LIMIT 10;
 
 
 import pandas as pd

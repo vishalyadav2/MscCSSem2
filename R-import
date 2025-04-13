@@ -1,0 +1,5 @@
+ibrary(igraph)
+install.packages("igraph")
+library(igraph)
+install.packages("igraph")
+library(igraph)
